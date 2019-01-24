@@ -1,3 +1,4 @@
-#door1 {
+.door-frame {
   cursor: pointer;
+  padding: 10px;
 }
